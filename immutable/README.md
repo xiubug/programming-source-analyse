@@ -1,23 +1,5 @@
 # Immutable详细解析
 
-## 相关推荐
-
-[基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd(1.x)实现的SPA后台管理系统模板](https://github.com/sosout/react-antd)
-
-## 关于我自己
-
->  JS/React/Vue/Angular前端群： 599399742
-
->  邮&emsp;&emsp;&ensp;箱： sosout@139.com
-
->  个人网站： http://www.sosout.com/
-
->  个人博客： http://blog.sosout.com/
-
->  个人简书： http://www.jianshu.com/users/23b9a23b8849/latest_articles
-
->  segmentfault：https://segmentfault.com/u/sosout
-
 ## 引言
 Shared mutable state is the root of all evil（共享的可变状态是万恶之源）！ -- Pete Hunt
 
